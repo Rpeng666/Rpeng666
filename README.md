@@ -1,7 +1,6 @@
 Hi there 👋
 
 - 🔭 I’m currently studying at NJUSE.
-- 🌱 Feel free to concat me on Wechat: friday252 .
 - ⚡ [My blog](https://we1.top) .
 
 <p>
