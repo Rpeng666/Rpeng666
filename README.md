@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently studying at NJUSE.
+- 🔭 I’m currently studying at NJU.
 - ⚡ [My blog](https://we1.top) .
 
 <p>
