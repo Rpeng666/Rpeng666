@@ -1,7 +1,6 @@
 Hi there 👋
 
 - 🔭 I’m currently studying at NJU.
-- ⚡ [My blog](https://we1.top) .
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rpeng666&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
